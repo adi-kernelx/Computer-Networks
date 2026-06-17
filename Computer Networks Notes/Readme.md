@@ -1,0 +1,1 @@
+Computer Networks full notes based on the Love Babbar roadmap (https://whimsical.com/dbms-roadmap-by-love-babbar-FmUi8ffVop33t3MmpVxPCo) and the Computer Networks one-shot lecture by Sanchit Jain from the KnowledgeGATE YouTube channel (https://youtu.be/APVCgkqWcQ4?si=50HSfxnGRicyYNQ1).
